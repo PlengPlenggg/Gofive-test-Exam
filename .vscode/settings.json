@@ -1,0 +1,6 @@
+{
+  "playwright.env": {
+    "SLOW_MO": "500",
+    "END_PAUSE_MS": "5000"
+  }
+}
